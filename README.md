@@ -144,17 +144,6 @@ Made with :heart:&nbsp;  by [Aryan Gupta](https://github.com/beingaryan)
 * Sign Language Recognition, Generation, and Modelling: A Research Effort with Applications in Deaf Communication. 21-30. 10.1007/978-3-642-02707-9_3. 
 * Pramada, Sawant & Vaidya, Archana. (2013). Intelligent Sign Language Recognition Using Image Processing. IOSR Journal of Engineering. 03. 45-51. 10.9790/3021-03224551.
 
-## :handshake: Our Contributors
-[CONTRIBUTORS.md](/CONTRIBUTORS.md)
-
-## :eyes: Code of Conduct
-
-You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
-
-
-## :eyes: License
-MIT © [Aryan Gupta](https://github.com/beingaryan/Sign-To-Speech-Conversion/blob/master/LICENSE)
-
 
 
 
